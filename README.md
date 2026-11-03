@@ -2,6 +2,8 @@
 
 ![alt text](images/sloth-and-android-server-room.webp)
 
+**Write-up:** [Obsidian AI plugins, sorted: a categorised list of 86 LLM plugins](https://blog.danielrosehill.com/posts/obsidian-ai-plugins-curated-list-52rdko/)
+
 A curated collection of Obsidian plugins focused on leveraging AI and LLMs inside your vault.
 
 > **Note**: This list is auto-organized based on GitHub metadata (descriptions, topics, stars).
